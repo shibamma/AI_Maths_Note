@@ -1,0 +1,6 @@
+- Python 3.x
+- Streamlit
+- Pillow
+- OpenAI
+- Streamlit Drawable Canvas
+- NumPy
